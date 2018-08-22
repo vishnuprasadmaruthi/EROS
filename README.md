@@ -1,4 +1,11 @@
 # EROS - Emergency Rescue Operation Systems
+
+# Technologies Used
+- Java
+- Java Swing
+- Netbeans
+
+# Purpose
 A Java application that brings volunteers, rescue operation teams together to respond to natural disasters and emergency health crisis.
 
 # Problem Statement
